@@ -1,0 +1,22 @@
+{
+  "name": "XBlinkingLabel",
+  "version": "0.1.0",
+  "summary": "A short description of XBlinkingLabel.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Kristian Angyal/XBlinkingLabel",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Kristian Angyal": "kristian.angyal@starlingbank.com"
+  },
+  "source": {
+    "git": "https://github.com/Kristian Angyal/XBlinkingLabel.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XBlinkingLabel/Classes/**/*"
+}

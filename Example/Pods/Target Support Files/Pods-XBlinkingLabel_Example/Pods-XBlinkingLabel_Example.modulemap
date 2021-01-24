@@ -1,0 +1,6 @@
+framework module Pods_XBlinkingLabel_Example {
+  umbrella header "Pods-XBlinkingLabel_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

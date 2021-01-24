@@ -1,0 +1,16 @@
+PODS:
+  - XBlinkingLabel (0.1.0)
+
+DEPENDENCIES:
+  - XBlinkingLabel (from `../`)
+
+EXTERNAL SOURCES:
+  XBlinkingLabel:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XBlinkingLabel: 8ffd9a1a7455d91db8d2f02e773d6e99861be132
+
+PODFILE CHECKSUM: ae2cc7d1be66f7b670870eae233eaa0547ddd9bd
+
+COCOAPODS: 1.8.4
